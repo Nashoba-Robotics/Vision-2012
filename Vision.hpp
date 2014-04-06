@@ -322,7 +322,6 @@ public:
 					printf("[-f|--file] filename : Process a mjpg video or jpeg image\n");
 					
 					exit(0);
-					break;
 
 				case '?':
 					/* getopt_long already printed an error message. */
